@@ -570,13 +570,7 @@
 
 <p>Blockquotes can contain other Markdown formatted elements. Not all elements can be used — you’ll need to experiment to see which ones work.</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; #### The quarterly results look great!
-&gt;
-&gt; - Revenue was off the chart.
-&gt; - Profits were higher than ever.
-&gt;
-&gt;  *Everything* is going according to **plan**.
-</code></pre></div></div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"></div></div>
 
 <p>The rendered output looks like this:</p>
 
